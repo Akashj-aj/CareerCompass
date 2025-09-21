@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "resume-card",
+      "description": "An image of a resume document",
+      "imageUrl": "https://picsum.photos/seed/resume/600/400",
+      "imageHint": "resume document"
+    },
+    {
+      "id": "roadmap-card",
+      "description": "An image of a road with forks",
+      "imageUrl": "https://picsum.photos/seed/roadmap/600/400",
+      "imageHint": "road map"
+    },
+    {
+      "id": "skills-card",
+      "description": "An image showing interconnected skills",
+      "imageUrl": "https://picsum.photos/seed/skills/600/400",
+      "imageHint": "skills network"
+    },
+    {
+      "id": "interview-card",
+      "description": "An image of two people in an interview",
+      "imageUrl": "https://picsum.photos/seed/interview/600/400",
+      "imageHint": "job interview"
+    },
+    {
+      "id": "projects-card",
+      "description": "An image of code on a screen",
+      "imageUrl": "https://picsum.photos/seed/projects/600/400",
+      "imageHint": "code screen"
+    },
+    {
+      "id": "avatar-placeholder",
+      "description": "A placeholder for a user avatar",
+      "imageUrl": "https://picsum.photos/seed/avatar1/100/100",
+      "imageHint": "person portrait"
+    }
+  ]
+}
